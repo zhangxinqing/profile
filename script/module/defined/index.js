@@ -50,11 +50,11 @@ define(['jquery','jquery.easypiechart.min','Vue'],function($,easyPieChart,Vue){
 			skills:'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.',
 			skilllist:[
 				{name:"HTML5",num:"95"},
-				{name:"CSS3",num:"93"},
+				{name:"CSS3",num:"50"},
 				{name:"jQuery",num:"90"},
 				{name:"PHP",num:"89"},
 				{name:"MySQL",num:"85"},
-				{name:"AngularJS",num:"30"}
+				{name:"Vue",num:"50"}
 			]
         }
 		// 创建一个 Vue 实例或 "ViewModel"
