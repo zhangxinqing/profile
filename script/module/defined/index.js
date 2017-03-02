@@ -54,7 +54,7 @@ define(['jquery','jquery.easypiechart.min','Vue'],function($,easyPieChart,Vue){
 				{name:"jQuery",num:"90"},
 				{name:"PHP",num:"89"},
 				{name:"MySQL",num:"85"},
-				{name:"AngularJS",num:"90"}
+				{name:"AngularJS",num:"30"}
 			]
         }
 		// 创建一个 Vue 实例或 "ViewModel"
